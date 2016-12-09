@@ -6,3 +6,4 @@ Another test for missing commit message.
 
 Work continue.
 
+does the author fix?
